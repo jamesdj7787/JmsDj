@@ -1,186 +1,282 @@
 [
   {
     "violation_type": "No Helmet",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Mahindra Scorpio",
-    "img": "https://example.com/images/no_helmet_4811.jpg",
-    "lat": 18.502536,
-    "lng": 73.740073
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Ford Ecosport",
-    "img": "https://example.com/images/no_helmet_5081.jpg",
-    "lat": 18.464124,
-    "lng": 73.72537
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Hyundai Creta",
-    "img": "https://example.com/images/no_parking_6578.jpg",
-    "lat": 18.419463,
-    "lng": 73.717936
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Toyota Corolla",
-    "img": "https://example.com/images/no_parking_1284.jpg",
-    "lat": 18.431494,
-    "lng": 73.850217
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Toyota Corolla",
-    "img": "https://example.com/images/no_parking_9527.jpg",
-    "lat": 18.422846,
-    "lng": 73.837532
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Mahindra Scorpio",
-    "img": "https://example.com/images/no_parking_1816.jpg",
-    "lat": 18.400688,
-    "lng": 73.802942
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH13ZX9876",
-    "vehicle_model": "Ford Ecosport",
-    "img": "https://example.com/images/no_helmet_8728.jpg",
-    "lat": 18.481683,
-    "lng": 73.801088
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12TY4567",
-    "vehicle_model": "Honda City",
-    "img": "https://example.com/images/no_parking_6558.jpg",
-    "lat": 18.583753,
-    "lng": 73.873709
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12GH3456",
-    "vehicle_model": "Toyota Corolla",
-    "img": "https://example.com/images/no_parking_2644.jpg",
-    "lat": 18.504883,
-    "lng": 73.818050
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Hyundai Creta",
-    "img": "https://example.com/images/no_helmet_2487.jpg",
-    "lat": 18.563527,
-    "lng": 73.750198
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Maruti Alto",
-    "img": "https://example.com/images/no_parking_1576.jpg",
-    "lat": 18.514679,
-    "lng": 73.842961
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Nissan Micra",
-    "img": "https://example.com/images/no_helmet_6812.jpg",
-    "lat": 18.421306,
-    "lng": 73.768073
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH13ZX9876",
-    "vehicle_model": "Honda City",
-    "img": "https://example.com/images/no_parking_2135.jpg",
-    "lat": 18.557604,
-    "lng": 73.831074
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH13ZX9876",
-    "vehicle_model": "Royal Enfield Bullet",
-    "img": "https://example.com/images/no_helmet_4826.jpg",
-    "lat": 18.549203,
-    "lng": 73.759453
-  },
-  {
-    "violation_type": "No Parking",
     "number_plate": "MH12AB1234",
     "vehicle_model": "Suzuki Swift",
-    "img": "https://example.com/images/no_parking_9196.jpg",
-    "lat": 18.527346,
-    "lng": 73.795236
+    "img": "https://example.com/images/no_helmet_4312.jpg",
+    "lat": 18.545678,
+    "lng": 73.829123,
+    "day": "Friday",
+    "created_date": "Nov 15, 2024, 02:30 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Hyundai Creta",
+    "img": "https://example.com/images/no_parking_5201.jpg",
+    "lat": 18.496231,
+    "lng": 73.752115,
+    "day": "Thursday",
+    "created_date": "Nov 14, 2024, 11:15 AM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH13ZX9876",
+    "vehicle_model": "Royal Enfield Bullet",
+    "img": "https://example.com/images/no_helmet_3489.jpg",
+    "lat": 18.459023,
+    "lng": 73.802302,
+    "day": "Wednesday",
+    "created_date": "Nov 13, 2024, 09:45 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12TY4567",
+    "vehicle_model": "BMW X5",
+    "img": "https://example.com/images/no_parking_6401.jpg",
+    "lat": 18.496823,
+    "lng": 73.758201,
+    "day": "Tuesday",
+    "created_date": "Nov 12, 2024, 07:00 AM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH12GH3456",
+    "vehicle_model": "Honda City",
+    "img": "https://example.com/images/no_helmet_8724.jpg",
+    "lat": 18.553489,
+    "lng": 73.771203,
+    "day": "Monday",
+    "created_date": "Nov 11, 2024, 10:30 AM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Toyota Corolla",
+    "img": "https://example.com/images/no_parking_1298.jpg",
+    "lat": 18.521907,
+    "lng": 73.740593,
+    "day": "Sunday",
+    "created_date": "Nov 10, 2024, 03:00 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH12AB1234",
+    "vehicle_model": "Suzuki Swift",
+    "img": "https://example.com/images/no_helmet_5490.jpg",
+    "lat": 18.488713,
+    "lng": 73.811478,
+    "day": "Saturday",
+    "created_date": "Nov 09, 2024, 08:00 AM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12AB1234",
+    "vehicle_model": "Kia Seltos",
+    "img": "https://example.com/images/no_parking_5632.jpg",
+    "lat": 18.522657,
+    "lng": 73.853141,
+    "day": "Friday",
+    "created_date": "Nov 08, 2024, 05:30 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH13ZX9876",
+    "vehicle_model": "Mahindra Scorpio",
+    "img": "https://example.com/images/no_helmet_2351.jpg",
+    "lat": 18.509178,
+    "lng": 73.830159,
+    "day": "Thursday",
+    "created_date": "Nov 07, 2024, 06:45 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12TY4567",
+    "vehicle_model": "Hyundai Creta",
+    "img": "https://example.com/images/no_parking_4071.jpg",
+    "lat": 18.476218,
+    "lng": 73.763085,
+    "day": "Wednesday",
+    "created_date": "Nov 06, 2024, 04:30 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH12AB1234",
+    "vehicle_model": "Maruti Baleno",
+    "img": "https://example.com/images/no_helmet_8621.jpg",
+    "lat": 18.551102,
+    "lng": 73.785497,
+    "day": "Tuesday",
+    "created_date": "Nov 05, 2024, 03:15 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Ford Endeavour",
+    "img": "https://example.com/images/no_parking_3641.jpg",
+    "lat": 18.532134,
+    "lng": 73.776854,
+    "day": "Monday",
+    "created_date": "Nov 04, 2024, 12:00 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH13ZX9876",
+    "vehicle_model": "Toyota Fortuner",
+    "img": "https://example.com/images/no_helmet_7362.jpg",
+    "lat": 18.567349,
+    "lng": 73.741635,
+    "day": "Sunday",
+    "created_date": "Nov 03, 2024, 01:45 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12TY4567",
+    "vehicle_model": "Honda Civic",
+    "img": "https://example.com/images/no_parking_2873.jpg",
+    "lat": 18.503273,
+    "lng": 73.753287,
+    "day": "Saturday",
+    "created_date": "Nov 02, 2024, 10:30 AM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH12GH3456",
+    "vehicle_model": "Hyundai i20",
+    "img": "https://example.com/images/no_helmet_8321.jpg",
+    "lat": 18.524567,
+    "lng": 73.788930,
+    "day": "Friday",
+    "created_date": "Nov 01, 2024, 02:00 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12AB1234",
+    "vehicle_model": "Chevrolet Spark",
+    "img": "https://example.com/images/no_parking_7435.jpg",
+    "lat": 18.467123,
+    "lng": 73.741118,
+    "day": "Thursday",
+    "created_date": "Oct 31, 2024, 04:45 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Tata Nexon",
+    "img": "https://example.com/images/no_helmet_5639.jpg",
+    "lat": 18.554789,
+    "lng": 73.776908,
+    "day": "Wednesday",
+    "created_date": "Oct 30, 2024, 10:00 AM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH13ZX9876",
+    "vehicle_model": "Ford Figo",
+    "img": "https://example.com/images/no_parking_4125.jpg",
+    "lat": 18.518967,
+    "lng": 73.782530,
+    "day": "Tuesday",
+    "created_date": "Oct 29, 2024, 09:30 AM"
   },
   {
     "violation_type": "No Helmet",
     "number_plate": "MH12TY4567",
-    "vehicle_model": "BMW X5",
-    "img": "https://example.com/images/no_helmet_4798.jpg",
-    "lat": 18.592739,
-    "lng": 73.858310
+    "vehicle_model": "Skoda Rapid",
+    "img": "https://example.com/images/no_helmet_9321.jpg",
+    "lat": 18.503657,
+    "lng": 73.747264,
+    "day": "Monday",
+    "created_date": "Oct 28, 2024, 07:45 AM"
   },
   {
     "violation_type": "No Parking",
     "number_plate": "MH12GH3456",
-    "vehicle_model": "Kia Seltos",
-    "img": "https://example.com/images/no_parking_8889.jpg",
-    "lat": 18.573124,
-    "lng": 73.804392
+    "vehicle_model": "Renault Kwid",
+    "img": "https://example.com/images/no_parking_8253.jpg",
+    "lat": 18.491835,
+    "lng": 73.758394,
+    "day": "Sunday",
+    "created_date": "Oct 27, 2024, 04:30 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Mahindra XUV500",
+    "img": "https://example.com/images/no_helmet_9426.jpg",
+    "lat": 18.467839,
+    "lng": 73.746381,
+    "day": "Saturday",
+    "created_date": "Oct 26, 2024, 12:30 PM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12AB1234",
+    "vehicle_model": "Nissan Sunny",
+    "img": "https://example.com/images/no_parking_3256.jpg",
+    "lat": 18.505781,
+    "lng": 73.776394,
+    "day": "Friday",
+    "created_date": "Oct 25, 2024, 05:00 PM"
   },
   {
     "violation_type": "No Helmet",
     "number_plate": "MH12TY4567",
+    "vehicle_model": "Datsun Go",
+    "img": "https://example.com/images/no_helmet_6245.jpg",
+    "lat": 18.467981,
+    "lng": 73.744710,
+    "day": "Thursday",
+    "created_date": "Oct 24, 2024, 11:45 AM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH14XY5678",
+    "vehicle_model": "Ford EcoSport",
+    "img": "https://example.com/images/no_parking_7360.jpg",
+    "lat": 18.495274,
+    "lng": 73.762130,
+    "day": "Wednesday",
+    "created_date": "Oct 23, 2024, 02:30 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH13ZX9876",
+    "vehicle_model": "Volkswagen Polo",
+    "img": "https://example.com/images/no_helmet_5271.jpg",
+    "lat": 18.530674,
+    "lng": 73.746227,
+    "day": "Tuesday",
+    "created_date": "Oct 22, 2024, 08:30 AM"
+  },
+  {
+    "violation_type": "No Parking",
+    "number_plate": "MH12GH3456",
+    "vehicle_model": "Hyundai Verna",
+    "img": "https://example.com/images/no_parking_6482.jpg",
+    "lat": 18.533688,
+    "lng": 73.759824,
+    "day": "Monday",
+    "created_date": "Oct 21, 2024, 06:00 PM"
+  },
+  {
+    "violation_type": "No Helmet",
+    "number_plate": "MH12AB1234",
     "vehicle_model": "Maruti Alto",
-    "img": "https://example.com/images/no_helmet_4922.jpg",
-    "lat": 18.532059,
-    "lng": 73.785609
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Royal Enfield Bullet",
-    "img": "https://example.com/images/no_parking_3072.jpg",
-    "lat": 18.545303,
-    "lng": 73.756623
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Honda City",
-    "img": "https://example.com/images/no_helmet_4628.jpg",
-    "lat": 18.489126,
-    "lng": 73.773590
+    "img": "https://example.com/images/no_helmet_4827.jpg",
+    "lat": 18.540129,
+    "lng": 73.746382,
+    "day": "Sunday",
+    "created_date": "Oct 20, 2024, 12:00 PM"
   },
   {
     "violation_type": "No Parking",
     "number_plate": "MH14XY5678",
-    "vehicle_model": "Mahindra Scorpio",
-    "img": "https://example.com/images/no_parking_1173.jpg",
-    "lat": 18.416813,
-    "lng": 73.771495
-  },
-  {
-    "violation_type": "No Helmet",
-    "number_plate": "MH14XY5678",
-    "vehicle_model": "Honda City",
-    "img": "https://example.com/images/no_helmet_1259.jpg",
-    "lat": 18.459213,
-    "lng": 73.754828
-  },
-  {
-    "violation_type": "No Parking",
-    "number_plate": "MH12AB1234",
-    "vehicle_model": "Hyundai Creta",
-    "img": "https://example.com/images/no_parking_7568.jpg",
-    "lat": 18.543219,
-    "lng": 73.729946
+    "vehicle_model": "Chevrolet Beat",
+    "img": "https://example.com/images/no_parking_4569.jpg",
+    "lat": 18.517345,
+    "lng": 73.781165,
+    "day": "Saturday",
+    "created_date": "Oct 19, 2024, 01:15 PM"
   }
 ]
